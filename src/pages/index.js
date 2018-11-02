@@ -8,7 +8,7 @@ const IndexPage = () => (
   <Layout>
     <h1>Hi people</h1>
     <p>This is Khang Nguyen</p>
-    <p>Nice to meet you all.</p>
+    <p>Hope to collaborate with you :)</p>
     <div style={{ maxWidth: '300px', marginBottom: '1.45rem' }}>
       <Image />
     </div>
